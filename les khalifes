@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="xassida.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Les khalifs de Serigne Touba</title>
+</head>
+<body>
+	<header>
+		<h1>BIENVENUE DANS AKHBABIL KHADIM</h1>
+	</header>
+<form>
+	<div class="kh">
+		<p><strong> Voici les 8 khalifes générals des Mourides</strong></p>
+	</div>
+	<div class="column">
+		<div>
+		<a href="2.JPEG">	
+<img src="2.JPEG" width="300px" height="400px" ></a><p><strong> Cheikh Ahmadou Bamba Mbacké</strong> né en 1853<br> à Mbacké-Baol,et disparu le 10 Juillet 1927 à<br> Ndiareme Diourbel,fondateur de sa propre voie "<br> le Mouridisme", mère Sokhna Diarra Bousso,<br> père Mame  Mor Anta Saly.</p> </div>
+<div>
+	<a href="1.JPEG">
+<img src="1.JPEG" width="300px" height="400px"></a><p><strong> Cheikh Mouhamadou Moustapha Mbacké</strong> né<br> en 1888 à Darou Salam et mort le 13 Juillet<br> 1945 à Touba, fils de Cheikh Ahmadou Bamba<br> Mbacké et Sokhna Aminata Lo, premier Khalif<br> de la conférie Mouride.</p>
+</div>
+<div>
+	<a href="3.JPEG">
+<img src="3.JPEG" width="300px" height="400px"></a><p><strong>Serigne Mouhamadou Fadl Mbacké</strong>né le 27<br> Juin 1888 à Darou Salam et mort le 06 Aout 1968 <br>à Touba, fils de Cheikh Ahmadou Bamba et Sokhna<br> Awa Bousso.Il devient le deuxième khalif.</p>
+</div></div>
+<div class="col">
+	<div>
+		<a href="4.JPEG">
+<img src="4.JPEG" width="300px" height="400px"></a><p><strong> Cheikh Abdoul Ahad Mbacké</strong> est né en 1914<br> à Diourbel.Il est le fils de Cheikh Ahmadou <br> Bamba et de Sokhna Mariama Diakhaté.Il fut<br> le troixième khalif.</p>	</div>
+<div>
+	<a href="5.JPEG">
+<img src="5.JPEG" width="300px" height="400px"></a><p><strong>Serigne Abdou Khadr</strong> donnait une importance<br>particulière au deuxième pilier de l'Islam, la prière.<br>L'illustre fils de Sokhna Aminata Bousso et de Cheikh<br> Ahmadou Bamba, a commencé à diriger  la prière du<br> Vendredi à l'age de 21 ans.Il est né en 1914 Arrondis-<br> sement de Ndame et mort en 1990 à Touba.Il est le<br> quatrième khalif.</p></div>
+	<div>
+		<a href="6.JPEG">
+<img src="6.JPEG" width="300px" height="400px"></a><p><strong>Serigne Saliou Mbacké,</strong> né à Diourbel le 22 sep-<br> tembre 1915 et décédé à Touba le 28 décembre.<br> Il est le fils de Cheikh Ahmadou Bamba et de<br> Sokhna Faty Diakhaté, fut le cinquième khalif.</p></div>
+</div>
+<div class="co">
+	<div>
+		<a href="7.JPEG">
+		<img src="7.JPEG" width="300px" height="400px"></a><p><strong>Serigne Bara Mbacké,</strong> sixième khalife, fils de<br> Serigne Fallou Mbacké et de Sokhna Khary Sall,<br> est né en 1921 à Touba et mort le 30 juin 2010.</p>
+	</div>
+	<div>
+		<a href="8.JPEG">
+		<img src="8.JPEG" width="300px" height="400px"></a><p><strong>Serigne Sidy Mokhtar Mbacké,</strong> le septième <br>khalife, est né le 11 Juillet 1924 à Mbacké Kadior<br> au Sénégal et mort dans la nuit du 09 au 10 Janvier<br> 2018 à Touba.Il est le fils de Mouhamadou Lamine<br> Bara Mbacké ibn Cheikh Ahmadou Bamba Mbacké <br> et de Sokhna Maty Leye. </p>
+	</div>
+	<div>
+		<a href="9.JPEG">
+		<img src="9.JPEG" width="300px" height="400px"></a><p><strong>Serigne Mountaqa Bassirou Mbacké </strong> est un<br> dignitaire religieux sénégalais. Il est le khalife<br> général des mourides depuis le 10 janvier 2018.<br>Il est né en 1933 à Darou Kayel.Il est le fils de<br>Serigne Mouhamadou Bassirou Mbacké. <br>(Yagg fi té werr Mbacké).</p>
+	</div>
+</div>
+</div>
+</form>
+</div>
+<footer>
+	<p><strong> Merci d'avoir visitez notre site.<br>Contact : 77 476 17 43<br>Email : massecks75@gmail.com</strong></p><br><br>
+	<form action="xassida.html">
+		<div class="page">
+	<input type="submit" value="Haut de Page"></div>
+</form>
+</footer>
+</div>
+</body>
+</html>
